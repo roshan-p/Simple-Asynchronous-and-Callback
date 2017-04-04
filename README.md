@@ -20,7 +20,7 @@ functionTwo();
 # Callback Javascript
 Call back is something like use a function as a agrument for another function In other words, 
 the frist function will call the second function back later once its execution is finish.
-for example:
+For example:
 ```
 function functionOne(callback) {
   setTimeout(()=> {
