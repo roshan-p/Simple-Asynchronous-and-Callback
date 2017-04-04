@@ -5,12 +5,12 @@ So we just set the dealy to the function for example:
 ```
 function functionOne() {
   setTimeout(()=> {
-    console.log('Hi i'm the first appearance');
+    console.log("Hi i'm the first appearance");
   }, 3000);
 }
 
 function functionTwo(){
-  console.log( 'I'm the second');
+  console.log( "I'm the second");
 }
 
 functionOne();
